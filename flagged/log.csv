@@ -1,0 +1,2 @@
+inp,output,flag,username,timestamp
+flagged\inp\3026412092aa2722a8cd\Angel al ordenador.jpg,"{""label"": ""bathtub"", ""confidences"": [{""label"": ""bathtub"", ""confidence"": 0.03553493320941925}, {""label"": ""tub"", ""confidence"": 0.02523951791226864}, {""label"": ""shower curtain"", ""confidence"": 0.023533636704087257}]}",,,2024-07-31 11:04:34.937253
